@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/run.dir/protobuf_parser.cpp.o  -o run -rdynamic build/lib/libcaffe.so -lglog -lboost_system -Wl,-rpath,/home/cv/DLhome/test/guangfu/my_tool/caffemodel_parser/build/lib 
